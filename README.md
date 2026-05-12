@@ -1,6 +1,9 @@
 <h1> Dcase 2024 task7 challenge " Sound Scene Synthesis" 
 </h1>
+
 Results :  https://dcase.community/challenge2024/task-sound-scene-synthesis-results
+
+Technical Report: https://dcase.community/documents/challenge2024/technical_reports/DCASE2024_Verma_85_t7.pdf
 
 We have made our custom dataset by mixing various audio dataset. Some audios are put as foreground while some are put in background.
 
